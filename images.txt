@@ -1,7 +1,5 @@
-#nginx
-#支持私库
-#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#3xhofe/alist:latest
-#支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
 mysql:8.0
+zabbix/zabbix-java-gateway:alpine-6.0-latest
+zabbix/zabbix-server-mysql:alpine-6.0-latest
+zabbix/zabbix-web-nginx-mysql:alpine-6.0-latest
+zabbix/zabbix-agent:alpine-6.0-latest
