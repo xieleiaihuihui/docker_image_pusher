@@ -1,5 +1,6 @@
-mysql:8.0
-zabbix/zabbix-java-gateway:alpine-6.0-latest
-zabbix/zabbix-server-mysql:alpine-6.0-latest
-zabbix/zabbix-web-nginx-mysql:alpine-6.0-latest
-zabbix/zabbix-agent:alpine-6.0-latest
+#mysql:8.0
+#zabbix/zabbix-java-gateway:alpine-6.0-latest
+#zabbix/zabbix-server-mysql:alpine-6.0-latest
+#zabbix/zabbix-web-nginx-mysql:alpine-6.0-latest
+#zabbix/zabbix-agent:alpine-6.0-latest
+myjenkins-blueocean:2.452.3-1
