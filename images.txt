@@ -3,4 +3,5 @@
 #zabbix/zabbix-server-mysql:alpine-6.0-latest
 #zabbix/zabbix-web-nginx-mysql:alpine-6.0-latest
 #zabbix/zabbix-agent:alpine-6.0-latest
-myjenkins-blueocean:2.452.3-1
+#myjenkins-blueocean:2.452.3-1
+jenkins/jenkins:2.452.3-lts-jdk17
