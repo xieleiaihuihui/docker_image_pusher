@@ -5,4 +5,5 @@
 #zabbix/zabbix-agent:alpine-6.0-latest
 #myjenkins-blueocean:2.452.3-1
 #jenkins/jenkins:2.452.3-lts-jdk17
-eipwork/kuboard:v3.5.2.4
+#eipwork/kuboard:v3.5.2.4
+eipwork/kuboard:v3.5.2.7
