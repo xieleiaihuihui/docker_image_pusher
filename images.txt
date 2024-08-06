@@ -16,14 +16,10 @@
 #eipwork/etcd-host:3.4.16-1
 #questdb/questdb:6.0.4
 #nginx:1.21
-swr.cn-east-2.myhuaweicloud.com/kuboard/etcd:v3.4.14
+#swr.cn-east-2.myhuaweicloud.com/kuboard/etcd:v3.4.14
 
-
-
-
-
-
-
+--platform linux/arm64 eipwork/etcd-host:3.4.16-2
+--platform linux/arm64 eipwork/kuboard:v3.5.2.4
 
 
 
