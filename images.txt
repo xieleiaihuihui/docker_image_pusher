@@ -15,7 +15,9 @@
 #eipwork/kuboard-agent:v3
 #eipwork/etcd-host:3.4.16-1
 #questdb/questdb:6.0.4
-nginx:1.21
+#nginx:1.21
+swr.cn-east-2.myhuaweicloud.com/kuboard/etcd:v3.4.14
+
 
 
 
