@@ -18,8 +18,8 @@
 #nginx:1.21
 #swr.cn-east-2.myhuaweicloud.com/kuboard/etcd:v3.4.14
 
---platform linux/arm64 eipwork/etcd-host:3.4.16-2
---platform linux/arm64 eipwork/kuboard:v3.5.2.4
+#--platform linux/arm64 eipwork/etcd-host:3.4.16-2
+#--platform linux/arm64 eipwork/kuboard:v3.5.2.4
 
-
-
+--platform linux/arm64  swr.cn-east-2.myhuaweicloud.com/kuboard/etcd:v3.4.14
+--platform linux/arm64  swr.cn-east-2.myhuaweicloud.com/kuboard/kuboard:v3.5.2.4
