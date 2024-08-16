@@ -24,4 +24,13 @@
 #--platform linux/arm64  swr.cn-east-2.myhuaweicloud.com/kuboard/etcd:v3.4.14
 #--platform linux/arm64  swr.cn-east-2.myhuaweicloud.com/kuboard/kuboard:v3.5.2.4
 #--platform linux/arm64  nginx:1.21
-plugins/docker
+#plugins/docker
+
+--platform linux/arm64 docker.io/library/elasticsearch:7.17.7
+
+
+
+
+
+
+
