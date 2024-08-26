@@ -30,7 +30,8 @@
 #docker.io/bitnami/chartmuseum:0.14.0-debian-10-r110
 #harbor镜像
 #bitnami/harbor-notary-server-archived:2.5.0-debian-10-r43
-bitnami/harbor-notary-signer-archived:2.5.0-debian-10-r43
+#bitnami/harbor-notary-signer-archived:2.5.0-debian-10-r43
+bitnami/chartmuseum-archived:0.14.0-debian-10-r110
 
 
 
