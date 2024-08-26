@@ -26,7 +26,8 @@
 #--platform linux/arm64  nginx:1.21
 #plugins/docker
 
---platform linux/arm64 docker.io/library/elasticsearch:7.17.7
+#--platform linux/arm64 docker.io/library/elasticsearch:7.17.7
+docker.io/bitnami/chartmuseum:0.14.0-debian-10-r110
 
 
 
