@@ -27,7 +27,8 @@
 #plugins/docker
 
 #--platform linux/arm64 docker.io/library/elasticsearch:7.17.7
-docker.io/bitnami/chartmuseum:0.14.0-debian-10-r110
+#docker.io/bitnami/chartmuseum:0.14.0-debian-10-r110
+bitnami/harbor-notary-server-archived:2.5.0-debian-10-r43
 
 
 
