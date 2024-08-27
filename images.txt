@@ -34,7 +34,8 @@
 #bitnami/chartmuseum-archived:0.14.0-debian-10-r110
 #bitnami/mongodb:5.0.8-debian-10-r10
 #apacherocketmq/rocketmq-dashboard:1.0.0
-bash:5.2.9
+#bash:5.2.9
+jenkins/inbound-agent:4.11-1-jdk11
 
 
 
