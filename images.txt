@@ -32,8 +32,8 @@
 #bitnami/harbor-notary-server-archived:2.5.0-debian-10-r43
 #bitnami/harbor-notary-signer-archived:2.5.0-debian-10-r43
 #bitnami/chartmuseum-archived:0.14.0-debian-10-r110
-bitnami/mongodb:5.0.8-debian-10-r10
-
+#bitnami/mongodb:5.0.8-debian-10-r10
+apacherocketmq/rocketmq-dashboard:1.0.0
 
 
 
