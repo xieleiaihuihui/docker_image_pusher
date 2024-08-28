@@ -25,7 +25,6 @@
 #--platform linux/arm64  swr.cn-east-2.myhuaweicloud.com/kuboard/kuboard:v3.5.2.4
 #--platform linux/arm64  nginx:1.21
 #plugins/docker
-
 #--platform linux/arm64 docker.io/library/elasticsearch:7.17.7
 #docker.io/bitnami/chartmuseum:0.14.0-debian-10-r110
 #harbor镜像
@@ -36,6 +35,7 @@
 #apacherocketmq/rocketmq-dashboard:1.0.0
 #bash:5.2.9
 #jenkins/inbound-agent:4.11-1-jdk11
+
 bitnami/mysql:5.7.26
 
 
