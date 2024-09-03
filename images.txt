@@ -37,7 +37,9 @@
 #jenkins/inbound-agent:4.11-1-jdk11
 
 #bitnami/mysql:5.7.26
-nacos/nacos-server:v2.1.1
+#nacos/nacos-server:v2.1.1
+--platform linux/arm64 elasticsearch:7.17.10
+
 
 
 
