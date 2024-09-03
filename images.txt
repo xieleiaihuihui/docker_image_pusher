@@ -42,7 +42,7 @@
 #--platform linux/arm64 kibana:7.17.10
 #--platform linux/arm64 logstash:7.17.10
 #--platform linux/arm64 redis:6.0.9
---platform linux/arm64 bitnami/mysql:5.7.26
+--platform linux/arm64 mongodb/mongodb-community-server:5.0.21-ubi8
 
 
 
