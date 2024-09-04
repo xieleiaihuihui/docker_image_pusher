@@ -44,8 +44,20 @@
 #--platform linux/arm64 redis:6.0.9
 #--platform linux/arm64 mongodb/mongodb-community-server:5.0.21-ubi8
 
+#csi-nfs-controller镜像
 #--platform linux/arm64 longhornio/csi-provisioner:v3.6.0
 #--platform linux/arm64 longhornio/csi-snapshotter:v6.3.0
 #--platform linux/arm64 longhornio/livenessprobe:v2.11.0
---platform linux/arm64 xiaochong2018/nfsplugin:v4.5.0
+#--platform linux/arm64 xiaochong2018/nfsplugin:v4.5.0
+
+--platform linux/arm64 objectscale/csi-node-driver-registrar:v2.9.0
+
+
+
+
+
+
+
+
+
 
