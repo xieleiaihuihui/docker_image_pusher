@@ -42,9 +42,13 @@
 #--platform linux/arm64 kibana:7.17.10
 #--platform linux/arm64 logstash:7.17.10
 #--platform linux/arm64 redis:6.0.9
---platform linux/arm64 mongodb/mongodb-community-server:5.0.21-ubi8
+#--platform linux/arm64 mongodb/mongodb-community-server:5.0.21-ubi8
 
-
-
+#longhornio/csi-provisioner:v3.6.0
+#longhornio/csi-snapshotter:v6.3.0
+--platform linux/arm64 csi-provisioner:v3.6.1
+--platform linux/arm64 csi-snapshotter:v6.3.1
+--platform linux/arm64 nfsplugin:v4.5.0
+--platform linux/arm64 livenessprobe:v2.11.0
 
 
