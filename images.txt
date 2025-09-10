@@ -50,10 +50,9 @@
 #--platform linux/arm64 longhornio/livenessprobe:v2.11.0
 #--platform linux/arm64 xiaochong2018/nfsplugin:v4.5.0
 
---platform linux/arm64 objectscale/csi-node-driver-registrar:v2.9.0
+#--platform linux/arm64 objectscale/csi-node-driver-registrar:v2.9.0
 
-
-
+docker.io/calico/cni:v3.25.0
 
 
 
