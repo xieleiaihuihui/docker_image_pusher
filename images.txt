@@ -52,7 +52,10 @@
 
 #--platform linux/arm64 objectscale/csi-node-driver-registrar:v2.9.0
 
-docker.io/calico/cni:v3.25.0
+#docker.io/calico/cni:v3.25.0
+opencv/opencv:4.3.0
+
+
 
 
 
